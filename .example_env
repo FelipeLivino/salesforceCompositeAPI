@@ -1,0 +1,7 @@
+limitPerFile = 200
+objectToLoad = Lead
+loginUrl = https://login.salesforce.com/
+clientId = 
+clientSecret = 
+userName = 
+password = 
