@@ -2,13 +2,13 @@
   "name": "salesforce_updater",
   "version": "1.0.0",
   "description": "Make connection with salesforce",
+  "engines": {
+    "node": "18.16.0"
+  },
   "scripts": {
     "makefile": "node src/utils/makeFile.js",
     "callWS": "node --trace-warnings src/ws/salesforce.js",
     "dev": "node --trace-warnings src/controller/loadFilesSalesforce.js"
-  },
-  "engines": {
-    "node": "18.11.0"
   },
   "author": "Felipe Livino",
   "license": "ISC",

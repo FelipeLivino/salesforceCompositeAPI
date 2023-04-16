@@ -1,7 +1,7 @@
-limitPerFile = 200
+limitPerFile = 2
 objectToLoad = Lead
 loginUrl = https://login.salesforce.com/
-clientId = 
-clientSecret = 
-userName = 
-password = 
+clientId =
+clientSecret =
+userName =
+password =

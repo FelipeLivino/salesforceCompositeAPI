@@ -1,5 +1,5 @@
-FirstName,LastName,Status,Email,Company
-a1,b1,New,a1b1@yopmail.com,a1b1
+FirstName,LastName,Status,Email,Company,
+a1,b1,New,,a1b1
 a2,b2,New,a2b2@yopmail.com,a2b2
 a3,b3,New,a3b3@yopmail.com,a3b3
 a4,b4,New,a4b4@yopmail.com,a4b4
